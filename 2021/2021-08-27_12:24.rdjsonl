@@ -1,0 +1,2 @@
+{"message":"Using `function` is recommended","location":{"path":"Lambda/lib/lambda.ml","range":{"start":{"line":24,"column":1}}},"severity":"INFO"}
+{"message":"Constructor 'App' has no documentation attribute","location":{"path":"Lambda/lib/ast.mli","range":{"start":{"line":8,"column":1}}},"severity":"INFO"}
