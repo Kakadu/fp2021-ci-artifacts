@@ -1,4 +1,0 @@
-{"message":"Type name `intentionalCamelCase` should be in snake case","location":{"path":"lib/utils.ml","range":{"start":{"line":4,"column":1}}},"severity":"INFO"}
-{"message":"Bad measurement of a list (with non-negative size)","location":{"path":"lib/interpret.ml","range":{"start":{"line":22,"column":1}}},"severity":"INFO"}
-{"message":"Type name `notASnakeCase` should be in snake case","location":{"path":"lib/ast.mli","range":{"start":{"line":4,"column":1}}},"severity":"INFO"}
-{"message":"Constructor 'XXX' has no documentation attribute","location":{"path":"lib/ast.mli","range":{"start":{"line":14,"column":1}}},"severity":"INFO"}

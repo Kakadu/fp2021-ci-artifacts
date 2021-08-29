@@ -1,1 +1,0 @@
-{"message":"Constructor 'App' has no documentation attribute","location":{"path":"Lambda/lib/ast.mli","range":{"start":{"line":8,"column":1}}},"severity":"INFO"}
