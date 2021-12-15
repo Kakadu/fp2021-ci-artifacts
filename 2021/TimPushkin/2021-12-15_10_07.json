@@ -1,0 +1,5 @@
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"Bash/lib/tests.ml","range":{"start":{"line":15,"column":1}}},"severity":"INFO"}
+{"message":"Executing 'if ... then false' smells bad\n","location":{"path":"Bash/lib/parser.ml","range":{"start":{"line":17,"column":1}}},"severity":"INFO"}
+{"message":"Executing 'if ... then true' smells bad\n","location":{"path":"Bash/lib/parser.ml","range":{"start":{"line":17,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"Bash/lib/parser.ml","range":{"start":{"line":196,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Bash/lib/parser.ml","range":{"start":{"line":408,"column":1}}},"severity":"INFO"}
