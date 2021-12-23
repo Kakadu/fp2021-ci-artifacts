@@ -1,0 +1,17 @@
+{"message":"Using `function` is recommended","location":{"path":"C/lib/interpreterctx.ml","range":{"start":{"line":3,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"C/lib/interpreterctx.ml","range":{"start":{"line":3,"column":1}}},"severity":"INFO"}
+{"message":"Conjunction with boolean smells smells bad\n","location":{"path":"C/lib/interpreterctx.ml","range":{"start":{"line":248,"column":1}}},"severity":"INFO"}
+{"message":"Conjunction with boolean smells smells bad\n","location":{"path":"C/lib/interpreterctx.ml","range":{"start":{"line":249,"column":1}}},"severity":"INFO"}
+{"message":"Bad measurement of a list (with non-negative size)","location":{"path":"C/lib/interpreterctx.ml","range":{"start":{"line":868,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"C/lib/interpreterctx.ml","range":{"start":{"line":1019,"column":1}}},"severity":"INFO"}
+{"message":"Bad measurement of a list (with non-negative size)","location":{"path":"C/lib/interpreterctx.ml","range":{"start":{"line":1076,"column":1}}},"severity":"INFO"}
+{"message":"Bad measurement of a list (with non-negative size)","location":{"path":"C/lib/interpreterctx.ml","range":{"start":{"line":1104,"column":1}}},"severity":"INFO"}
+{"message":"Bad measurement of a list (with non-negative size)","location":{"path":"C/lib/interpreterctx.ml","range":{"start":{"line":1273,"column":1}}},"severity":"INFO"}
+{"message":"Bad measurement of a list (with non-negative size)","location":{"path":"C/lib/interpreterctx.ml","range":{"start":{"line":1294,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"C/lib/interpreterctx.ml","range":{"start":{"line":1497,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"C/lib/interpreterctx.ml","range":{"start":{"line":1522,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"C/lib/interpreterctx.ml","range":{"start":{"line":1552,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"C/lib/interpreterctx.ml","range":{"start":{"line":1552,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"C/lib/interpreterctx.ml","range":{"start":{"line":1552,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"C/lib/ast.ml","range":{"start":{"line":10,"column":1}}},"severity":"INFO"}
+{"message":"Using mutable data structures for teaching purposes is usually discouraged. You should try to use standart tree-like maps. If you really want to use hashing consider Hash-Array Mapped Tries (HAMT)","location":{"path":"C/lib/ast.ml","range":{"start":{"line":81,"column":1}}},"severity":"INFO"}
