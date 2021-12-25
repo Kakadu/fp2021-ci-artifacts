@@ -1,0 +1,38 @@
+{"message":"Using `function` is recommended","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":84,"column":1}}},"severity":"INFO"}
+{"message":"Bad measurement of a list (with non-negative size)","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":187,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":239,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":274,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":282,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":323,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":335,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":362,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":377,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":400,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":401,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":420,"column":1}}},"severity":"INFO"}
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"OCamlEff/lib/tester.ml","range":{"start":{"line":10,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"OCamlEff/lib/tester.ml","range":{"start":{"line":29,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Executing 'if ... then true' smells bad\n","location":{"path":"OCamlEff/lib/tester.ml","range":{"start":{"line":10,"column":1}}},"severity":"INFO"}
+{"message":"Executing 'if ... then true' smells bad\n","location":{"path":"OCamlEff/lib/tester.ml","range":{"start":{"line":29,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OCamlEff/lib/ast.ml","range":{"start":{"line":19,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OCamlEff/lib/ast.ml","range":{"start":{"line":34,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OCamlEff/lib/ast.ml","range":{"start":{"line":19,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OCamlEff/lib/ast.ml","range":{"start":{"line":34,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OCamlEff/lib/ast.ml","range":{"start":{"line":19,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OCamlEff/lib/ast.ml","range":{"start":{"line":34,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OCamlEff/lib/ast.ml","range":{"start":{"line":19,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OCamlEff/lib/ast.ml","range":{"start":{"line":34,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OCamlEff/lib/ast.ml","range":{"start":{"line":19,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OCamlEff/lib/ast.ml","range":{"start":{"line":34,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OCamlEff/lib/ast.ml","range":{"start":{"line":19,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OCamlEff/lib/ast.ml","range":{"start":{"line":34,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OCamlEff/lib/ast.ml","range":{"start":{"line":19,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OCamlEff/lib/ast.ml","range":{"start":{"line":34,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OCamlEff/lib/ast.ml","range":{"start":{"line":19,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OCamlEff/lib/ast.ml","range":{"start":{"line":34,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OCamlEff/lib/ast.ml","range":{"start":{"line":19,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OCamlEff/lib/ast.ml","range":{"start":{"line":34,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OCamlEff/lib/ast.ml","range":{"start":{"line":19,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OCamlEff/lib/ast.ml","range":{"start":{"line":34,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OCamlEff/lib/ast.ml","range":{"start":{"line":19,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OCamlEff/lib/ast.ml","range":{"start":{"line":34,"column":1}}},"severity":"INFO"}
