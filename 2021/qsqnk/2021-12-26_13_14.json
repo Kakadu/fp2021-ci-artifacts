@@ -1,0 +1,40 @@
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":132,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":142,"column":1}}},"severity":"INFO"}
+{"message":"Bad measurement of a list (with non-negative size)","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":189,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":241,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":243,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":277,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":285,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":326,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":338,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":365,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":380,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":401,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":402,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":419,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":448,"column":1}}},"severity":"INFO"}
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"OCamlEff/lib/tester.ml","range":{"start":{"line":10,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"OCamlEff/lib/tester.ml","range":{"start":{"line":29,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Executing 'if ... then true' smells bad\n","location":{"path":"OCamlEff/lib/tester.ml","range":{"start":{"line":10,"column":1}}},"severity":"INFO"}
+{"message":"Executing 'if ... then true' smells bad\n","location":{"path":"OCamlEff/lib/tester.ml","range":{"start":{"line":29,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":28,"column":1}}},"severity":"INFO"}
+{"message":"Bad measurement of a list (with non-negative size)","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":69,"column":1}}},"severity":"INFO"}
+{"message":"Bad measurement of a list (with non-negative size)","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":88,"column":1}}},"severity":"INFO"}
+{"message":"Bad measurement of a list (with non-negative size)","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":94,"column":1}}},"severity":"INFO"}
+{"message":"Bad measurement of a list (with non-negative size)","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":100,"column":1}}},"severity":"INFO"}
+{"message":"Bad measurement of a list (with non-negative size)","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":106,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":125,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":132,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":155,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":174,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":178,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":202,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":210,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":228,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":232,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":239,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":243,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":250,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":254,"column":1}}},"severity":"INFO"}
+{"message":"Executing 'if ... then true' smells bad\n","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":293,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":309,"column":1}}},"severity":"INFO"}
