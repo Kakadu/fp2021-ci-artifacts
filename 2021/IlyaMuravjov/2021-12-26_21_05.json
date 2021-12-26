@@ -1,0 +1,2 @@
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"OCamlTyEff/lib/tychk.ml","range":{"start":{"line":104,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Using `function` is recommended","location":{"path":"OCamlTyEff/lib/ast.ml","range":{"start":{"line":3,"column":1}}},"severity":"INFO"}
