@@ -1,0 +1,21 @@
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":132,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":142,"column":1}}},"severity":"INFO"}
+{"message":"Bad measurement of a list (with non-negative size)","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":189,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":241,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":243,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":277,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":285,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":333,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":345,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":372,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":387,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":408,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":409,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":426,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/typing.ml","range":{"start":{"line":452,"column":1}}},"severity":"INFO"}
+{"message":"Bad measurement of a list (with non-negative size)","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":160,"column":1}}},"severity":"INFO"}
+{"message":"Bad measurement of a list (with non-negative size)","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":166,"column":1}}},"severity":"INFO"}
+{"message":"Bad measurement of a list (with non-negative size)","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":172,"column":1}}},"severity":"INFO"}
+{"message":"Bad measurement of a list (with non-negative size)","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":177,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":327,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"OCamlEff/lib/eval.ml","range":{"start":{"line":331,"column":1}}},"severity":"INFO"}
