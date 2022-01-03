@@ -1,0 +1,2 @@
+{"message":"Unsafe ingore. It's recommended to rewrite it as 'let (_: int) = (Unix.write_substring test_env.wr_stdin giv_stdin 0\n                  (String.length giv_stdin) : int)'","location":{"path":"Bash/lib/interpreter.ml","range":{"start":{"line":687,"column":1}}},"severity":"INFO"}
+{"message":"Unsafe ingore. It's recommended to rewrite it as 'let (_: int) = (Unix.write_substring test_env.wr_stdin giv_stdin 0\n                  (String.length giv_stdin) : int)'","location":{"path":"Bash/lib/interpreter.ml","range":{"start":{"line":717,"column":1}}},"severity":"INFO"}
