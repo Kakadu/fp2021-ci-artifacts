@@ -1,0 +1,4 @@
+{"message":"Toplevel eval not recommended","location":{"path":"Kotlin/lib/interpreter.ml","range":{"start":{"line":161,"column":1}}},"severity":"INFO","code":{"value":"no_toplevel_eval","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Toplevel eval not recommended","location":{"path":"Kotlin/lib/interpreter.ml","range":{"start":{"line":162,"column":1}}},"severity":"INFO","code":{"value":"no_toplevel_eval","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Using `function` is recommended","location":{"path":"Kotlin/lib/ast.ml","range":{"start":{"line":2,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"Kotlin/lib/ast.ml","range":{"start":{"line":11,"column":1}}},"severity":"INFO"}
