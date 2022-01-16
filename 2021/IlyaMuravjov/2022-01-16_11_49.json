@@ -1,0 +1,1 @@
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"OCamlTyEff/lib/inference.ml","range":{"start":{"line":648,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
