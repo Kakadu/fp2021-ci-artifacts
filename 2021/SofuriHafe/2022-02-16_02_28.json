@@ -1,0 +1,21 @@
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":96,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":100,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":104,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":106,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":121,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":140,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":147,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":154,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":161,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":165,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":178,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":181,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":184,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":193,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":207,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":214,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":235,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":278,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":291,"column":1}}},"severity":"INFO"}
+{"message":"Rewrite record as '{ class_ctx with id = i }'","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":321,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":349,"column":1}}},"severity":"INFO"}
