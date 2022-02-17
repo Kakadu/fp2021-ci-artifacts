@@ -1,0 +1,21 @@
+{"message":"Toplevel eval not recommended","location":{"path":"Ruby/demos/demo.ml","range":{"start":{"line":3,"column":1}}},"severity":"INFO","code":{"value":"no_toplevel_eval","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":104,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":108,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":112,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":114,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":133,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":152,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":159,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":166,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":173,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":177,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":190,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":193,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":196,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":207,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":221,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":230,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":238,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":261,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":305,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":318,"column":1}}},"severity":"INFO"}
