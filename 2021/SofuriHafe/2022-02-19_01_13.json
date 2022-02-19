@@ -1,0 +1,26 @@
+{"message":"Toplevel eval not recommended","location":{"path":"Ruby/demos/recursion.ml","range":{"start":{"line":3,"column":1}}},"severity":"INFO","code":{"value":"no_toplevel_eval","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Toplevel eval not recommended","location":{"path":"Ruby/demos/object.ml","range":{"start":{"line":3,"column":1}}},"severity":"INFO","code":{"value":"no_toplevel_eval","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Toplevel eval not recommended","location":{"path":"Ruby/demos/multiple_assignment.ml","range":{"start":{"line":3,"column":1}}},"severity":"INFO","code":{"value":"no_toplevel_eval","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Toplevel eval not recommended","location":{"path":"Ruby/demos/method_missing.ml","range":{"start":{"line":3,"column":1}}},"severity":"INFO","code":{"value":"no_toplevel_eval","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Toplevel eval not recommended","location":{"path":"Ruby/demos/closure.ml","range":{"start":{"line":3,"column":1}}},"severity":"INFO","code":{"value":"no_toplevel_eval","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Toplevel eval not recommended","location":{"path":"Ruby/demos/anonymous.ml","range":{"start":{"line":3,"column":1}}},"severity":"INFO","code":{"value":"no_toplevel_eval","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":107,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":111,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":115,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":117,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":134,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":166,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":173,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":180,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":187,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":191,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":204,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":207,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":210,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":221,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":237,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":267,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":278,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":301,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":355,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpreter.ml","range":{"start":{"line":362,"column":1}}},"severity":"INFO"}
