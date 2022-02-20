@@ -1,3 +1,0 @@
-{"message":"Using `function` is recommended","location":{"path":"Test/lib/lambda.ml","range":{"start":{"line":24,"column":1}}},"severity":"INFO"}
-{"message":"Executing 'if true' smells bad\n","location":{"path":"Test/lib/interpret.ml","range":{"start":{"line":11,"column":1}}},"severity":"INFO"}
-{"message":"Constructor 'App' has no documentation attribute","location":{"path":"Test/lib/ast.mli","range":{"start":{"line":8,"column":1}}},"severity":"INFO"}
