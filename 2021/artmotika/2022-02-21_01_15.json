@@ -1,0 +1,32 @@
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":18,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":18,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":40,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":79,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":83,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":93,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":109,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":113,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":120,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":126,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":130,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":137,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":146,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":150,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":157,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":161,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":170,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":179,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":188,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":202,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":210,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":210,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":231,"column":1}}},"severity":"INFO"}
+{"message":"Rewrite record as '{\n                     var_ctx with\n                     assignment_count = 0;\n                     is_const = (is_const modifier);\n                     var_value = (get_base_value vars_type);\n                     var_key = var_name;\n                     var_type = vars_type\n                   }'","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":471,"column":1}}},"severity":"INFO"}
+{"message":"Rewrite record as '{\n                     expr_ctx with\n                     assignment_count = 1;\n                     is_const = (is_const modifier);\n                     var_value = (expr_ctx.last_expr_result);\n                     var_key = var_name;\n                     var_type = var_expr_type\n                   }'","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":488,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":741,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":750,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":817,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"CsharpExcep/lib/interpret_classes.ml","range":{"start":{"line":82,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"CsharpExcep/lib/interpret_classes.ml","range":{"start":{"line":95,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"CsharpExcep/lib/interpret_classes.ml","range":{"start":{"line":117,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/ast.ml","range":{"start":{"line":4,"column":1}}},"severity":"INFO"}
