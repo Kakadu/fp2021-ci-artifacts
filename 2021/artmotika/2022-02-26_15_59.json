@@ -1,0 +1,20 @@
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/test_interpreter.ml","range":{"start":{"line":5,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":112,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":117,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":128,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":145,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":150,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":157,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":164,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":169,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":176,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":186,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":191,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":199,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":204,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":214,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":224,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":234,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":273,"column":1}}},"severity":"INFO"}
+{"message":"Rewrite record as '{\n                     var_ctx with\n                     assignment_count = 0;\n                     is_const = (is_const modifier);\n                     var_value = (get_base_value vars_type);\n                     var_key = var_name;\n                     var_type = vars_type\n                   }'","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":531,"column":1}}},"severity":"INFO"}
+{"message":"Rewrite record as '{\n                     expr_ctx with\n                     assignment_count = 1;\n                     is_const = (is_const modifier);\n                     var_value = (expr_ctx.last_expr_result);\n                     var_key = var_name;\n                     var_type = var_expr_type\n                   }'","location":{"path":"CsharpExcep/lib/interpreter.ml","range":{"start":{"line":550,"column":1}}},"severity":"INFO"}
