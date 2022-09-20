@@ -1,0 +1,4 @@
+{"message":"File 'Lambda/lib/lambda_lib.ml-gen' doesn't have corresponding .mli interface","location":{"path":"Lambda/lib/lambda_lib.ml-gen","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"Lambda/lib/lambda.ml","range":{"start":{"line":34,"column":1}}},"severity":"INFO"}
+{"message":"Executing 'if true' smells bad\n","location":{"path":"Lambda/lib/interpret.ml","range":{"start":{"line":16,"column":1}}},"severity":"INFO"}
+{"message":"Constructor 'App' has no documentation attribute","location":{"path":"Lambda/lib/ast.mli","range":{"start":{"line":11,"column":1}}},"severity":"INFO","code":{"value":"no_docs_parsetree","url":"https://kakadu.github.io/zanuda/"}}
