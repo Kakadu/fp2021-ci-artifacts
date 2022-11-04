@@ -1,0 +1,2 @@
+{"message":"File 'Bash/lib/bash_lib.ml-gen' doesn't have corresponding .mli interface","location":{"path":"Bash/lib/bash_lib.ml-gen","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Bash/lib/interpret.ml","range":{"start":{"line":634,"column":1}}},"severity":"INFO"}
