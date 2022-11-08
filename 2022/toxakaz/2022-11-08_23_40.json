@@ -1,0 +1,1 @@
+{"message":"File 'Pascal/lib/pascal_lib.ml-gen' doesn't have corresponding .mli interface","location":{"path":"Pascal/lib/pascal_lib.ml-gen","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
