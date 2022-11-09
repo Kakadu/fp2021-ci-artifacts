@@ -1,0 +1,2 @@
+{"message":"File 'Pascal/lib/pascal_lib.ml-gen' doesn't have corresponding .mli interface","location":{"path":"Pascal/lib/pascal_lib.ml-gen","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"Pascal/_none_","range":{"start":{"line":0,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
