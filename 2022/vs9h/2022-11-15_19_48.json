@@ -1,0 +1,24 @@
+{"message":"Using failwith unsafely","location":{"path":"Bash/lib/utils.ml","range":{"start":{"line":33,"column":1}}},"severity":"INFO"}
+{"message":"Conjunction with boolean smells bad\n","location":{"path":"Bash/lib/parser.ml","range":{"start":{"line":192,"column":1}}},"severity":"INFO"}
+{"message":"Conjunction with boolean smells bad\n","location":{"path":"Bash/lib/parser.ml","range":{"start":{"line":192,"column":1}}},"severity":"INFO"}
+{"message":"Conjunction with boolean smells bad\n","location":{"path":"Bash/lib/parser.ml","range":{"start":{"line":352,"column":1}}},"severity":"INFO"}
+{"message":"Conjunction with boolean smells bad\n","location":{"path":"Bash/lib/parser.ml","range":{"start":{"line":352,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Bash/lib/interpret.ml","range":{"start":{"line":834,"column":1}}},"severity":"INFO"}
+{"message":"Conjunction with boolean smells bad\n","location":{"path":"Bash/lib/ast.ml","range":{"start":{"line":29,"column":1}}},"severity":"INFO"}
+{"message":"Conjunction with boolean smells bad\n","location":{"path":"Bash/lib/ast.ml","range":{"start":{"line":29,"column":1}}},"severity":"INFO"}
+{"message":"Conjunction with boolean smells bad\n","location":{"path":"Bash/lib/ast.ml","range":{"start":{"line":46,"column":1}}},"severity":"INFO"}
+{"message":"Conjunction with boolean smells bad\n","location":{"path":"Bash/lib/ast.ml","range":{"start":{"line":46,"column":1}}},"severity":"INFO"}
+{"message":"Conjunction with boolean smells bad\n","location":{"path":"Bash/lib/ast.ml","range":{"start":{"line":61,"column":1}}},"severity":"INFO"}
+{"message":"Conjunction with boolean smells bad\n","location":{"path":"Bash/lib/ast.ml","range":{"start":{"line":61,"column":1}}},"severity":"INFO"}
+{"message":"Conjunction with boolean smells bad\n","location":{"path":"Bash/lib/ast.ml","range":{"start":{"line":69,"column":1}}},"severity":"INFO"}
+{"message":"Conjunction with boolean smells bad\n","location":{"path":"Bash/lib/ast.ml","range":{"start":{"line":69,"column":1}}},"severity":"INFO"}
+{"message":"Conjunction with boolean smells bad\n","location":{"path":"Bash/lib/ast.ml","range":{"start":{"line":121,"column":1}}},"severity":"INFO"}
+{"message":"Conjunction with boolean smells bad\n","location":{"path":"Bash/lib/ast.ml","range":{"start":{"line":121,"column":1}}},"severity":"INFO"}
+{"message":"Conjunction with boolean smells bad\n","location":{"path":"Bash/lib/ast.ml","range":{"start":{"line":133,"column":1}}},"severity":"INFO"}
+{"message":"Conjunction with boolean smells bad\n","location":{"path":"Bash/lib/ast.ml","range":{"start":{"line":133,"column":1}}},"severity":"INFO"}
+{"message":"Conjunction with boolean smells bad\n","location":{"path":"Bash/lib/ast.ml","range":{"start":{"line":141,"column":1}}},"severity":"INFO"}
+{"message":"Conjunction with boolean smells bad\n","location":{"path":"Bash/lib/ast.ml","range":{"start":{"line":141,"column":1}}},"severity":"INFO"}
+{"message":"Conjunction with boolean smells bad\n","location":{"path":"Bash/lib/ast.ml","range":{"start":{"line":188,"column":1}}},"severity":"INFO"}
+{"message":"Conjunction with boolean smells bad\n","location":{"path":"Bash/lib/ast.ml","range":{"start":{"line":188,"column":1}}},"severity":"INFO"}
+{"message":"Conjunction with boolean smells bad\n","location":{"path":"Bash/lib/ast.ml","range":{"start":{"line":211,"column":1}}},"severity":"INFO"}
+{"message":"Conjunction with boolean smells bad\n","location":{"path":"Bash/lib/ast.ml","range":{"start":{"line":211,"column":1}}},"severity":"INFO"}
