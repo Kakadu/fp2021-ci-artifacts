@@ -1,0 +1,1 @@
+{"message":"Constructor 'Concat' has no documentation attribute","location":{"path":"Lua/lib/ast.mli","range":{"start":{"line":37,"column":1}}},"severity":"INFO","code":{"value":"no_docs_parsetree","url":"https://kakadu.github.io/zanuda/"}}
