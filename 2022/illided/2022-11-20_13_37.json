@@ -1,0 +1,15 @@
+{"message":"File 'Ruby/lib/utils.ml' doesn't have corresponding .mli interface","location":{"path":"Ruby/lib/utils.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Ruby/lib/tests.ml' doesn't have corresponding .mli interface","location":{"path":"Ruby/lib/tests.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Ruby/lib/stdlib.ml' doesn't have corresponding .mli interface","location":{"path":"Ruby/lib/stdlib.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Ruby/lib/lexer.ml' doesn't have corresponding .mli interface","location":{"path":"Ruby/lib/lexer.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Ruby/lib/interpret.ml' doesn't have corresponding .mli interface","location":{"path":"Ruby/lib/interpret.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Ruby/lib/environment.ml' doesn't have corresponding .mli interface","location":{"path":"Ruby/lib/environment.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Ruby/lib/builtinops.ml' doesn't have corresponding .mli interface","location":{"path":"Ruby/lib/builtinops.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/utils.ml","range":{"start":{"line":26,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/stdlib.ml","range":{"start":{"line":13,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/stdlib.ml","range":{"start":{"line":18,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/stdlib.ml","range":{"start":{"line":23,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/parser.ml","range":{"start":{"line":120,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpret.ml","range":{"start":{"line":20,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/builtinops.ml","range":{"start":{"line":127,"column":1}}},"severity":"INFO"}
+{"message":"Constructor 'Nil' has no documentation attribute","location":{"path":"Ruby/lib/ast.mli","range":{"start":{"line":35,"column":1}}},"severity":"INFO","code":{"value":"no_docs_parsetree","url":"https://kakadu.github.io/zanuda/"}}
