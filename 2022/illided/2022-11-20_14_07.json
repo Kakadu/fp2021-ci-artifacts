@@ -1,0 +1,8 @@
+{"message":"Unsafe ingore. It's recommended to rewrite it as 'let (_: Ruby_lib.Ast.value) = Interpret.run ast'","location":{"path":"Ruby/INTERPRET.ml","range":{"start":{"line":16,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/utils.ml","range":{"start":{"line":26,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/stdlib.ml","range":{"start":{"line":13,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/stdlib.ml","range":{"start":{"line":18,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/stdlib.ml","range":{"start":{"line":23,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/parser.ml","range":{"start":{"line":180,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/interpret.ml","range":{"start":{"line":20,"column":1}}},"severity":"INFO"}
+{"message":"Using failwith unsafely","location":{"path":"Ruby/lib/builtinops.ml","range":{"start":{"line":127,"column":1}}},"severity":"INFO"}
