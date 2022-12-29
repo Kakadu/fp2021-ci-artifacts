@@ -1,0 +1,8 @@
+{"message":"File 'OCamlWithEffects/lib/util.ml' doesn't have corresponding .mli interface","location":{"path":"OCamlWithEffects/lib/util.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'OCamlWithEffects/lib/typing.ml' doesn't have corresponding .mli interface","location":{"path":"OCamlWithEffects/lib/typing.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'OCamlWithEffects/lib/printer.ml' doesn't have corresponding .mli interface","location":{"path":"OCamlWithEffects/lib/printer.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'OCamlWithEffects/lib/InterpreterPP.ml' doesn't have corresponding .mli interface","location":{"path":"OCamlWithEffects/lib/InterpreterPP.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'OCamlWithEffects/lib/interpret.ml' doesn't have corresponding .mli interface","location":{"path":"OCamlWithEffects/lib/interpret.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'OCamlWithEffects/lib/inferencer.ml' doesn't have corresponding .mli interface","location":{"path":"OCamlWithEffects/lib/inferencer.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"OCamlWithEffects/_none_","range":{"start":{"line":0,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"OCamlWithEffects/_none_","range":{"start":{"line":0,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
