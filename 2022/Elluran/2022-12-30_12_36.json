@@ -1,0 +1,7 @@
+{"message":"File 'Prolog/lib/utils.ml' doesn't have corresponding .mli interface","location":{"path":"Prolog/lib/utils.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Prolog/lib/unify.ml' doesn't have corresponding .mli interface","location":{"path":"Prolog/lib/unify.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Prolog/lib/types.ml' doesn't have corresponding .mli interface","location":{"path":"Prolog/lib/types.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Prolog/lib/tests.ml' doesn't have corresponding .mli interface","location":{"path":"Prolog/lib/tests.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Prolog/lib/print.ml' doesn't have corresponding .mli interface","location":{"path":"Prolog/lib/print.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Prolog/lib/interpret.ml' doesn't have corresponding .mli interface","location":{"path":"Prolog/lib/interpret.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Prolog/lib/db.ml' doesn't have corresponding .mli interface","location":{"path":"Prolog/lib/db.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
