@@ -1,0 +1,62 @@
+{"message":"Using `function` is recommended","location":{"path":"SQL/test/parser_test.ml","range":{"start":{"line":122,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"SQL/test/tree_test.ml","range":{"start":{"line":13,"column":1}}},"severity":"INFO"}
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"SQL/_none_","range":{"start":{"line":0,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"SQL/_none_","range":{"start":{"line":0,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"SQL/_none_","range":{"start":{"line":0,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"SQL/_none_","range":{"start":{"line":0,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"SQL/_none_","range":{"start":{"line":0,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"SQL/_none_","range":{"start":{"line":0,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Using `function` is recommended","location":{"path":"SQL/lib/tree.ml","range":{"start":{"line":121,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"SQL/lib/tree.ml","range":{"start":{"line":127,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"SQL/lib/tree.ml","range":{"start":{"line":155,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"SQL/lib/tree.ml","range":{"start":{"line":161,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"SQL/lib/tree.ml","range":{"start":{"line":180,"column":1}}},"severity":"INFO"}
+{"message":"Antipattern: error swallowing","location":{"path":"SQL/lib/tokenizer.ml","range":{"start":{"line":16,"column":1}}},"severity":"INFO"}
+{"message":"Antipattern: error swallowing","location":{"path":"SQL/lib/tokenizer.ml","range":{"start":{"line":18,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"SQL/lib/save.ml","range":{"start":{"line":28,"column":1}}},"severity":"INFO"}
+{"message":"Using `failwith` (or `assert false`) usually is a clue that a corner case is not being handled properly. To report errors we recommend using error monad instead. In princliple, these construction are OK for temporary work-in-progress code, but in release they should be eliminated","location":{"path":"SQL/lib/save.ml","range":{"start":{"line":33,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"SQL/lib/save.ml","range":{"start":{"line":38,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/save.ml","range":{"start":{"line":60,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/save.ml","range":{"start":{"line":64,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/save.ml","range":{"start":{"line":73,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/save.ml","range":{"start":{"line":74,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/save.ml","range":{"start":{"line":101,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/save.ml","range":{"start":{"line":105,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/rep.ml","range":{"start":{"line":110,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/rep.ml","range":{"start":{"line":170,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/rep.ml","range":{"start":{"line":195,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/rep.ml","range":{"start":{"line":196,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/rep.ml","range":{"start":{"line":197,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/rep.ml","range":{"start":{"line":198,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/rep.ml","range":{"start":{"line":199,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/rep.ml","range":{"start":{"line":200,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/rep.ml","range":{"start":{"line":201,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/rep.ml","range":{"start":{"line":202,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/rep.ml","range":{"start":{"line":212,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/rep.ml","range":{"start":{"line":217,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/rep.ml","range":{"start":{"line":218,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/rep.ml","range":{"start":{"line":219,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/rep.ml","range":{"start":{"line":220,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/rep.ml","range":{"start":{"line":223,"column":1}}},"severity":"INFO"}
+{"message":"Rewrite record as '{\n                     table with\n                     num_rows = 0;\n                     columns =\n                       (insert ((generate_new_key table.columns), column)\n                          table.columns)\n                   }'","location":{"path":"SQL/lib/rep.ml","range":{"start":{"line":244,"column":1}}},"severity":"INFO"}
+{"message":"Using generic equality for type list and other algebraic data types is not recommended. Use pattern matching","location":{"path":"SQL/lib/rep.ml","range":{"start":{"line":380,"column":1}}},"severity":"INFO"}
+{"message":"Rewrite record as '{ table with columns = new_cols }'","location":{"path":"SQL/lib/rep.ml","range":{"start":{"line":388,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/parser.ml","range":{"start":{"line":16,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/parser.ml","range":{"start":{"line":17,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/parser.ml","range":{"start":{"line":18,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"SQL/lib/parser.ml","range":{"start":{"line":22,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"SQL/lib/parser.ml","range":{"start":{"line":34,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"SQL/lib/parser.ml","range":{"start":{"line":64,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"SQL/lib/parser.ml","range":{"start":{"line":116,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"SQL/lib/parser.ml","range":{"start":{"line":120,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"SQL/lib/parser.ml","range":{"start":{"line":375,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"SQL/lib/parser.ml","range":{"start":{"line":383,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"SQL/lib/parser.ml","range":{"start":{"line":394,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"SQL/lib/parser.ml","range":{"start":{"line":401,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"SQL/lib/parser.ml","range":{"start":{"line":420,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"SQL/lib/parser.ml","range":{"start":{"line":424,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"SQL/lib/parser.ml","range":{"start":{"line":483,"column":1}}},"severity":"INFO"}
+{"message":"","location":{"path":"SQL/lib/parser.ml","range":{"start":{"line":499,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"SQL/lib/helper.ml","range":{"start":{"line":35,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"SQL/lib/helper.ml","range":{"start":{"line":41,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"SQL/lib/helper.ml","range":{"start":{"line":79,"column":1}}},"severity":"INFO"}
