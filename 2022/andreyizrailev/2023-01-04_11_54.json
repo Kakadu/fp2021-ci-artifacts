@@ -1,0 +1,5 @@
+{"message":"File 'Asm/lib/monadError.ml' doesn't have corresponding .mli interface","location":{"path":"Asm/lib/monadError.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"Asm/_none_","range":{"start":{"line":0,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"Asm/_none_","range":{"start":{"line":0,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"Asm/_none_","range":{"start":{"line":0,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"Asm/_none_","range":{"start":{"line":0,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
