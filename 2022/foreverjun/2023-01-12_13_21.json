@@ -1,0 +1,2 @@
+{"message":"File 'OcamlObj/lib/interpret.ml' doesn't have corresponding .mli interface","location":{"path":"OcamlObj/lib/interpret.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Identifier `_true` used somewhere else but supposed to be unused.","location":{"path":"OcamlObj/lib/parser.ml","range":{"start":{"line":172,"column":1}}},"severity":"INFO","code":{"value":"var_should_not_be_used","url":"https://kakadu.github.io/zanuda/"}}
