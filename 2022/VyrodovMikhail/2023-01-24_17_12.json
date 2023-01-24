@@ -1,0 +1,2 @@
+{"message":"OCaml files should start from copyright and license information","location":{"path":"C/REPL.ml","range":{"start":{"line":0,"column":1}}},"severity":"INFO","code":{"value":"top_file_license","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"OCaml files should start from copyright and license information","location":{"path":"C/REPL.ml","range":{"start":{"line":0,"column":1}}},"severity":"INFO","code":{"value":"top_file_license","url":"https://kakadu.github.io/zanuda/"}}
