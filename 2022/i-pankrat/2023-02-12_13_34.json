@@ -1,0 +1,8 @@
+{"message":"File 'OCamlPV/lib/utils.ml' doesn't have corresponding .mli interface","location":{"path":"OCamlPV/lib/utils.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'OCamlPV/lib/typedtree.ml' doesn't have corresponding .mli interface","location":{"path":"OCamlPV/lib/typedtree.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'OCamlPV/lib/stdlib.ml' doesn't have corresponding .mli interface","location":{"path":"OCamlPV/lib/stdlib.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'OCamlPV/lib/printer.ml' doesn't have corresponding .mli interface","location":{"path":"OCamlPV/lib/printer.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'OCamlPV/lib/Pprintvalue.ml' doesn't have corresponding .mli interface","location":{"path":"OCamlPV/lib/Pprintvalue.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'OCamlPV/lib/Pprinttypedtree.ml' doesn't have corresponding .mli interface","location":{"path":"OCamlPV/lib/Pprinttypedtree.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"OCamlPV/_none_","range":{"start":{"line":0,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Using `function` is recommended","location":{"path":"OCamlPV/lib/inferencer.ml","range":{"start":{"line":335,"column":1}}},"severity":"INFO"}
