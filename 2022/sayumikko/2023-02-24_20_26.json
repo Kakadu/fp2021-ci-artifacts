@@ -1,0 +1,28 @@
+{"message":"File 'bash/lib/parser.ml' doesn't have corresponding .mli interface","location":{"path":"bash/lib/parser.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'bash/lib/interpreter.ml' doesn't have corresponding .mli interface","location":{"path":"bash/lib/interpreter.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":" First item in file should be a documentation comment with copyright information. For example:\n            (** Copyright 2021-2022, Winnie Pooh et al. *)","location":{"path":"bash/lib/parser.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO","code":{"value":"top_file_license","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Second item in file should be a documentation comment with correct license information. For example:\n           (** SPDX-License-Identifier: LGPL-3.0-or-later *)","location":{"path":"bash/lib/parser.ml","range":{"start":{"line":2,"column":1}}},"severity":"INFO","code":{"value":"top_file_license","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Using `function` is recommended","location":{"path":"bash/lib/parser.ml","range":{"start":{"line":43,"column":1}}},"severity":"INFO"}
+{"message":" First item in file should be a documentation comment with copyright information. For example:\n            (** Copyright 2021-2022, Winnie Pooh et al. *)","location":{"path":"bash/lib/interpreter.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO","code":{"value":"top_file_license","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Second item in file should be a documentation comment with correct license information. For example:\n           (** SPDX-License-Identifier: LGPL-3.0-or-later *)","location":{"path":"bash/lib/interpreter.ml","range":{"start":{"line":3,"column":1}}},"severity":"INFO","code":{"value":"top_file_license","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Using `function` is recommended","location":{"path":"bash/lib/interpreter.ml","range":{"start":{"line":181,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"bash/lib/interpreter.ml","range":{"start":{"line":212,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"bash/lib/interpreter.ml","range":{"start":{"line":259,"column":1}}},"severity":"INFO"}
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"bash/lib/interpreter.ml","range":{"start":{"line":323,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"bash/lib/interpreter.ml","range":{"start":{"line":334,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"bash/lib/interpreter.ml","range":{"start":{"line":351,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"bash/lib/interpreter.ml","range":{"start":{"line":598,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"bash/lib/interpreter.ml","range":{"start":{"line":605,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"bash/lib/interpreter.ml","range":{"start":{"line":624,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"bash/lib/interpreter.ml","range":{"start":{"line":631,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"bash/lib/interpreter.ml","range":{"start":{"line":643,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"bash/lib/interpreter.ml","range":{"start":{"line":702,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"bash/lib/interpreter.ml","range":{"start":{"line":739,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"bash/lib/interpreter.ml","range":{"start":{"line":752,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"bash/lib/interpreter.ml","range":{"start":{"line":762,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"bash/lib/interpreter.ml","range":{"start":{"line":789,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"bash/lib/interpreter.ml","range":{"start":{"line":811,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"bash/lib/interpreter.ml","range":{"start":{"line":822,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"bash/lib/interpreter.ml","range":{"start":{"line":833,"column":1}}},"severity":"INFO"}
+{"message":" First item in file should be a documentation comment with copyright information. For example:\n            (** Copyright 2021-2022, Winnie Pooh et al. *)","location":{"path":"bash/lib/ast.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO","code":{"value":"top_file_license","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Second item in file should be a documentation comment with correct license information. For example:\n           (** SPDX-License-Identifier: LGPL-3.0-or-later *)","location":{"path":"bash/lib/ast.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO","code":{"value":"top_file_license","url":"https://kakadu.github.io/zanuda/"}}
