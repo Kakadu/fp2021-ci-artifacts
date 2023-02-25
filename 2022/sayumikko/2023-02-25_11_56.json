@@ -1,0 +1,2 @@
+{"message":"Concatenating multiple strings at once (`a^b^c`) has a perfomance issue.\n","location":{"path":"bash/lib/interpreter.ml","range":{"start":{"line":321,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"bash/lib/interpreter.ml","range":{"start":{"line":801,"column":1}}},"severity":"INFO"}
