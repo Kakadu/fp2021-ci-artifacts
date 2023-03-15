@@ -1,0 +1,8 @@
+{"message":"File 'make/lib/pretty_print.ml' doesn't have corresponding .mli interface","location":{"path":"make/lib/pretty_print.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'make/lib/parser.ml' doesn't have corresponding .mli interface","location":{"path":"make/lib/parser.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"make/lib/pretty_print.ml","range":{"start":{"line":9,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"make/lib/pretty_print.ml","range":{"start":{"line":31,"column":1}}},"severity":"INFO"}
+{"message":"","location":{"path":"make/lib/parser.ml","range":{"start":{"line":153,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"make/lib/interpret.ml","range":{"start":{"line":53,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"make/lib/interpret.ml","range":{"start":{"line":74,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"make/lib/interpret.ml","range":{"start":{"line":110,"column":1}}},"severity":"INFO"}
