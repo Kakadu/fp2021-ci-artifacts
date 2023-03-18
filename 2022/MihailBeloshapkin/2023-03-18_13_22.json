@@ -1,0 +1,2 @@
+{"message":"File 'OCaml-with-variants/lib/inter.ml' doesn't have corresponding .mli interface","location":{"path":"OCaml-with-variants/lib/inter.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'OCaml-with-variants/lib/infer.ml' doesn't have corresponding .mli interface","location":{"path":"OCaml-with-variants/lib/infer.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
