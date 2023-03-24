@@ -1,4 +1,5 @@
 #use "topfind";;
+#require "str";;
 #require "yojson";;
 #require "stdio";;
 #require "unix";;
@@ -42,8 +43,17 @@ let report db : unit =
 
 let format_buf f =
   let b = Buffer.create 100 in
-  f (Format.formatter_of_buffer b);
+  let ppf = Format.formatter_of_buffer b in
+  f ppf;
+  Format.pp_print_flush ppf ();
   Buffer.contents b
+
+let without_largest = function
+  | "Using `function` is recommended"
+  | "Using failwith unsafely"
+  (* | "Using generic equality for type bool and other algebraic data types is not recommended. Use pattern matching" *)
+  | "Using mutable data structures for teaching purposes is usually discouraged" -> true
+  | _ -> false
 
 let report_qml db =
   let wrap ~is_bad db =
@@ -55,12 +65,7 @@ let report_qml db =
     )
   in
   let template =
-    let without_largest = function
-    | "Using `function` is recommended"
-    | "Using failwith unsafely"
-    | "Using generic equality for type bool and other algebraic data types is not recommended. Use pattern matching"
-    | "Using mutable data structures for teaching purposes is usually discouraged" -> true
-    | _ -> false in
+
     In_channel.read_all "Plot.template.qml"
     |> Str.global_replace (Str.regexp "/\\*TEMPLATE1\\*/") (wrap ~is_bad:(fun _ -> false) db)
     |> Str.global_replace (Str.regexp "/\\*TEMPLATE2\\*/") (wrap ~is_bad:without_largest db)
@@ -69,6 +74,50 @@ let report_qml db =
   let open Out_channel in
   with_file "Plot.qml" ~f:(fun ch -> Out_channel.(output_string ch template))
 
+let report_python db =
+  let template =
+  {|
+import matplotlib.pyplot as plt
+
+# Pie chart, where the slices will be ordered and plotted counter-clockwise:
+labels = LABELS       # 'Frogs', 'Hogs', 'Dogs', 'Logs'
+
+sizes  = SIZES         # [15, 30, 45, 10]
+#explode = (0, 0.1, 0, 0)  # only "explode" the 2nd slice (i.e. 'Hogs')
+
+fig1, ax1 = plt.subplots()
+ax1.pie(sizes,
+        #explode=explode,
+        labels=labels, autopct='%1.1f%%',
+        shadow=True, startangle=90)
+ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
+
+plt.show()
+  |}
+  in
+  let with_template ?(is_bad=(fun _ -> false)) db ~filename =
+    let db = H.filter (fun k _ -> not (is_bad k) ) db in
+    template
+    |> Str.global_replace (Str.regexp "LABELS")
+          ( format_buf(fun ppf ->
+              Format.fprintf ppf "[ ";
+              H.iter (fun k _ -> Format.fprintf ppf "\"\"%S\"\", %!" k) db;
+              Format.fprintf ppf " ]%!";
+          ))
+    |> Str.global_replace (Str.regexp "SIZES")
+          ( format_buf(fun ppf ->
+              Format.fprintf ppf "[ ";
+              H.iter (fun _  v -> Format.fprintf ppf "'%d', %!" v) db;
+              Format.fprintf ppf " ]%!";
+            )
+          )
+    |> (fun s -> let open Out_channel in
+      with_file filename ~f:(fun ch -> output_string ch s))
+  in
+  with_template ~filename:"Plot1.py" db;
+  with_template ~filename:"Plot2.py" ~is_bad:without_largest db
+
+
 let () =
   let files = Unix.open_process_in "find . -iwholename './*/*.json'" |> Stdio.In_channel.(input_lines) in
   let jsons = List.concat_map of_file files in
@@ -76,4 +125,5 @@ let () =
   let db = count jsons in
   report db;
   report_qml db;
+  report_python db;
   ()
