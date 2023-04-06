@@ -1,0 +1,8 @@
+{"message":"File 'SML_VPR_R1T/lib/typing.ml' doesn't have corresponding .mli interface","location":{"path":"SML_VPR_R1T/lib/typing.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'SML_VPR_R1T/lib/parserTest.ml' doesn't have corresponding .mli interface","location":{"path":"SML_VPR_R1T/lib/parserTest.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'SML_VPR_R1T/lib/parser.ml' doesn't have corresponding .mli interface","location":{"path":"SML_VPR_R1T/lib/parser.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'SML_VPR_R1T/lib/interpreterTest.ml' doesn't have corresponding .mli interface","location":{"path":"SML_VPR_R1T/lib/interpreterTest.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'SML_VPR_R1T/lib/interpreter.ml' doesn't have corresponding .mli interface","location":{"path":"SML_VPR_R1T/lib/interpreter.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'SML_VPR_R1T/lib/inferencerTest.ml' doesn't have corresponding .mli interface","location":{"path":"SML_VPR_R1T/lib/inferencerTest.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'SML_VPR_R1T/lib/inferencer.ml' doesn't have corresponding .mli interface","location":{"path":"SML_VPR_R1T/lib/inferencer.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"SML_VPR_R1T/_none_","range":{"start":{"line":0,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
