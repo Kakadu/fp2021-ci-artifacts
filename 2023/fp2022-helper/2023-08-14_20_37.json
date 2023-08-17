@@ -1,8 +1,0 @@
-{"message":"File 'Lambda/lib/utils.ml' doesn't have corresponding .mli interface","location":{"path":"Lambda/lib/utils.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
-{"message":"File 'Lambda/lib/tests.ml' doesn't have corresponding .mli interface","location":{"path":"Lambda/lib/tests.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
-{"message":"File 'Lambda/lib/lambda.ml' doesn't have corresponding .mli interface","location":{"path":"Lambda/lib/lambda.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
-{"message":"File 'Lambda/lib/interpret.ml' doesn't have corresponding .mli interface","location":{"path":"Lambda/lib/interpret.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
-{"message":"Using `function` is recommended","location":{"path":"Lambda/lib/lambda.ml","range":{"start":{"line":31,"column":1}}},"severity":"INFO"}
-{"message":"Executing 'if true' smells bad\n","location":{"path":"Lambda/lib/interpret.ml","range":{"start":{"line":15,"column":1}}},"severity":"INFO"}
-{"message":"Using `failwith` (or `assert false`) usually is a clue that a corner case is not being handled properly. To report errors we recommend using error monad instead. In princliple, these construction are OK for temporary work-in-progress code, but in release they should be eliminated","location":{"path":"Lambda/lib/interpret.ml","range":{"start":{"line":15,"column":1}}},"severity":"INFO"}
-{"message":"Constructor 'App' has no documentation attribute","location":{"path":"Lambda/lib/ast.mli","range":{"start":{"line":12,"column":1}}},"severity":"INFO","code":{"value":"no_docs_parsetree","url":"https://kakadu.github.io/zanuda/"}}
