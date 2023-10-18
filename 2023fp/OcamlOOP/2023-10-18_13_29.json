@@ -1,0 +1,8 @@
+{"message":"File 'OcamlOOP/lib/parser.ml' doesn't have corresponding .mli interface","location":{"path":"OcamlOOP/lib/parser.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Using `failwith` (or `assert false`) usually is a clue that a corner case is not being handled properly. To report errors we recommend using error monad instead. In princliple, these construction are OK for temporary work-in-progress code, but in release they should be eliminated","location":{"path":"OcamlOOP/lib/parser.ml","range":{"start":{"line":139,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OcamlOOP/lib/ast.ml","range":{"start":{"line":9,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OcamlOOP/lib/ast.ml","range":{"start":{"line":14,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OcamlOOP/lib/ast.ml","range":{"start":{"line":19,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OcamlOOP/lib/ast.ml","range":{"start":{"line":34,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OcamlOOP/lib/ast.ml","range":{"start":{"line":68,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OcamlOOP/lib/ast.ml","range":{"start":{"line":70,"column":1}}},"severity":"INFO"}
