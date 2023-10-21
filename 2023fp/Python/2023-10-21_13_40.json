@@ -1,0 +1,5 @@
+{"message":"File 'Python/lib/parser.ml' doesn't have corresponding .mli interface","location":{"path":"Python/lib/parser.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Python/lib/interpret.ml' doesn't have corresponding .mli interface","location":{"path":"Python/lib/interpret.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"Python/lib/parser.ml","range":{"start":{"line":207,"column":1}}},"severity":"INFO"}
+{"message":"OCaml files should start from copyright and license information","location":{"path":"Python/lib/interpret.ml","range":{"start":{"line":0,"column":1}}},"severity":"INFO","code":{"value":"top_file_license","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"OCaml files should start from copyright and license information","location":{"path":"Python/lib/interpret.ml","range":{"start":{"line":0,"column":1}}},"severity":"INFO","code":{"value":"top_file_license","url":"https://kakadu.github.io/zanuda/"}}
