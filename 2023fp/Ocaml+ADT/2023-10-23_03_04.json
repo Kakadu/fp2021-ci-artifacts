@@ -1,0 +1,1 @@
+{"message":"File 'Ocaml+ADT/lib/parser.ml' doesn't have corresponding .mli interface","location":{"path":"Ocaml+ADT/lib/parser.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
