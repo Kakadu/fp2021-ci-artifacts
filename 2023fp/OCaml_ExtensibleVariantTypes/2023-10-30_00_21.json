@@ -1,0 +1,2 @@
+{"message":"File 'OCaml_ExtensibleVariantTypes/lib/parser.ml' doesn't have corresponding .mli interface","location":{"path":"OCaml_ExtensibleVariantTypes/lib/parser.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'OCaml_ExtensibleVariantTypes/lib/tests.ml' doesn't have corresponding .mli interface","location":{"path":"OCaml_ExtensibleVariantTypes/lib/tests.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
