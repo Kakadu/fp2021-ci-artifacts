@@ -1,0 +1,4 @@
+{"message":"File 'FSharpActivePatterns/lib/parser.ml' doesn't have corresponding .mli interface","location":{"path":"FSharpActivePatterns/lib/parser.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Extranous `@@`.","location":{"path":"FSharpActivePatterns/lib/parser.ml","range":{"start":{"line":183,"column":1}}},"severity":"INFO","code":{"value":"camel_extra_dollar","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Extranous `@@`.","location":{"path":"FSharpActivePatterns/lib/parser.ml","range":{"start":{"line":186,"column":1}}},"severity":"INFO","code":{"value":"camel_extra_dollar","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Using nested if expressions more than three layers deep is a bad practice. Use let statements or helper methods or rethinking logic.","location":{"path":"FSharpActivePatterns/lib/parser.ml","range":{"start":{"line":99,"column":1}}},"severity":"INFO"}
