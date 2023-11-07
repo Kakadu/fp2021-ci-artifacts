@@ -1,0 +1,1 @@
+{"message":"Unneeded mutual recursion detected in these type declarations. It's recommended to rewrite 'let_decl' as follows:\ntype let_decl =\n  | Let_decl of decl [@ocaml.doc \" let x = 1 \"]","location":{"path":"Ocaml+printf/lib/ast.ml","range":{"start":{"line":41,"column":1}}},"severity":"INFO"}
