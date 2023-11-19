@@ -1,0 +1,4 @@
+{"message":"File 'Ocaml+LabeledAndOptionalArgs/lib/tests.ml' doesn't have corresponding .mli interface","location":{"path":"Ocaml+LabeledAndOptionalArgs/lib/tests.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Ocaml+LabeledAndOptionalArgs/lib/parser.ml' doesn't have corresponding .mli interface","location":{"path":"Ocaml+LabeledAndOptionalArgs/lib/parser.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"Ocaml+LabeledAndOptionalArgs/lib/parser.ml","range":{"start":{"line":121,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"Ocaml+LabeledAndOptionalArgs/lib/parser.ml","range":{"start":{"line":121,"column":1}}},"severity":"INFO"}
