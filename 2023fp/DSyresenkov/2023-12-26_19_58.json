@@ -1,0 +1,1 @@
+{"message":"Constructor 'NonRec' has no documentation attribute","location":{"path":"DSyresenkov/lib/ast.mli","range":{"start":{"line":39,"column":1}}},"severity":"INFO","code":{"value":"no_docs_parsetree","url":"https://kakadu.github.io/zanuda/"}}
