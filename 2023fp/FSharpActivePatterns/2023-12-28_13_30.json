@@ -1,0 +1,5 @@
+{"message":"File 'FSharpActivePatterns/lib/typedtree.ml' doesn't have corresponding .mli interface","location":{"path":"FSharpActivePatterns/lib/typedtree.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'FSharpActivePatterns/lib/Pprinttypedtree.ml' doesn't have corresponding .mli interface","location":{"path":"FSharpActivePatterns/lib/Pprinttypedtree.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'FSharpActivePatterns/lib/inferencer.ml' doesn't have corresponding .mli interface","location":{"path":"FSharpActivePatterns/lib/inferencer.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'FSharpActivePatterns/lib/errorinter.ml' doesn't have corresponding .mli interface","location":{"path":"FSharpActivePatterns/lib/errorinter.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Using `let ... in` is recommended","location":{"path":"FSharpActivePatterns/lib/inferencer.ml","range":{"start":{"line":391,"column":1}}},"severity":"INFO"}
