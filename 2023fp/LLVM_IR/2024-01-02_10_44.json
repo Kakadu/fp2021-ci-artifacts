@@ -1,0 +1,2 @@
+{"message":"Using `let ... in` is recommended","location":{"path":"LLVM_IR/lib/afterParseCheck/ssaCheck.ml","range":{"start":{"line":134,"column":1}}},"severity":"INFO"}
+{"message":"Rewrite record as '{ annot with basic_blocks = bbs; ftp = (annot.tp) }'","location":{"path":"LLVM_IR/lib/parser/parsing.ml","range":{"start":{"line":101,"column":1}}},"severity":"INFO"}
