@@ -1,0 +1,7 @@
+{"message":"File 'FSharpActivePatterns/lib/typedtree.ml' doesn't have corresponding .mli interface","location":{"path":"FSharpActivePatterns/lib/typedtree.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'FSharpActivePatterns/lib/inferencer.ml' doesn't have corresponding .mli interface","location":{"path":"FSharpActivePatterns/lib/inferencer.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'FSharpActivePatterns/lib/errorinter.ml' doesn't have corresponding .mli interface","location":{"path":"FSharpActivePatterns/lib/errorinter.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Extranous `@@`.","location":{"path":"FSharpActivePatterns/lib/interpret.ml","range":{"start":{"line":202,"column":1}}},"severity":"INFO","code":{"value":"camel_extra_dollar","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Consider using `List.fold_right` instead of `eval_env_apat`","location":{"path":"FSharpActivePatterns/lib/interpret.ml","range":{"start":{"line":218,"column":1}}},"severity":"INFO"}
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"FSharpActivePatterns/_none_","range":{"start":{"line":0,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Using `let ... in` is recommended","location":{"path":"FSharpActivePatterns/lib/inferencer.ml","range":{"start":{"line":377,"column":1}}},"severity":"INFO"}
