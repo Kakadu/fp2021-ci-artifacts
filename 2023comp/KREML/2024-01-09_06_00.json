@@ -1,0 +1,7 @@
+{"message":"","location":{"path":"KREML/lib/frontend/parser.ml","range":{"start":{"line":116,"column":1}}},"severity":"INFO"}
+{"message":"Unsafe ingore. It's recommended to rewrite it as 'let (_: Llvm.llvalue) = build_cond_br cond_val then_block else_block builder'","location":{"path":"KREML/lib/llvm/generate_code.ml","range":{"start":{"line":86,"column":1}}},"severity":"INFO"}
+{"message":"Unsafe ingore. It's recommended to rewrite it as 'let (_: Llvm.llvalue) = build_br cond_block builder'","location":{"path":"KREML/lib/llvm/generate_code.ml","range":{"start":{"line":89,"column":1}}},"severity":"INFO"}
+{"message":"Unsafe ingore. It's recommended to rewrite it as 'let (_: Llvm.llvalue) = build_br cond_block builder'","location":{"path":"KREML/lib/llvm/generate_code.ml","range":{"start":{"line":93,"column":1}}},"severity":"INFO"}
+{"message":"Unsafe ingore. It's recommended to rewrite it as 'let (_: Llvm.llvalue) = build_store (cexpr_to_llvm_ir left) alloca builder'","location":{"path":"KREML/lib/llvm/generate_code.ml","range":{"start":{"line":101,"column":1}}},"severity":"INFO"}
+{"message":"Unsafe ingore. It's recommended to rewrite it as 'let (_: Llvm.llvalue) = build_store arg alloca builder'","location":{"path":"KREML/lib/llvm/generate_code.ml","range":{"start":{"line":118,"column":1}}},"severity":"INFO"}
+{"message":"Unsafe ingore. It's recommended to rewrite it as 'let (_: Llvm.llvalue) = build_ret (aexpr_to_llvm_ir body) builder'","location":{"path":"KREML/lib/llvm/generate_code.ml","range":{"start":{"line":122,"column":1}}},"severity":"INFO"}
