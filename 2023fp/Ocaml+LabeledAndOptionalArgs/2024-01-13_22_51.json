@@ -1,0 +1,6 @@
+{"message":"File 'Ocaml+LabeledAndOptionalArgs/lib/tests.ml' doesn't have corresponding .mli interface","location":{"path":"Ocaml+LabeledAndOptionalArgs/lib/tests.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Ocaml+LabeledAndOptionalArgs/lib/pprint.ml' doesn't have corresponding .mli interface","location":{"path":"Ocaml+LabeledAndOptionalArgs/lib/pprint.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Ocaml+LabeledAndOptionalArgs/lib/parser.ml' doesn't have corresponding .mli interface","location":{"path":"Ocaml+LabeledAndOptionalArgs/lib/parser.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Ocaml+LabeledAndOptionalArgs/lib/interpretTypes.ml' doesn't have corresponding .mli interface","location":{"path":"Ocaml+LabeledAndOptionalArgs/lib/interpretTypes.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Ocaml+LabeledAndOptionalArgs/lib/interpret.ml' doesn't have corresponding .mli interface","location":{"path":"Ocaml+LabeledAndOptionalArgs/lib/interpret.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Consider using `List.fold_right` instead of `helper`","location":{"path":"Ocaml+LabeledAndOptionalArgs/lib/parser.ml","range":{"start":{"line":478,"column":1}}},"severity":"INFO"}
