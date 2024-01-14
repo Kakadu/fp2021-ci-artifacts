@@ -1,0 +1,1 @@
+{"message":"Extranous `@@`.","location":{"path":"Ruby/lib/interpret.ml","range":{"start":{"line":310,"column":1}}},"severity":"INFO","code":{"value":"camel_extra_dollar","url":"https://kakadu.github.io/zanuda/"}}
