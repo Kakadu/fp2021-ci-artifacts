@@ -1,0 +1,13 @@
+{"message":"File 'Ocaml+ADT/lib/parser.ml' doesn't have corresponding .mli interface","location":{"path":"Ocaml+ADT/lib/parser.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Ocaml+ADT/lib/interpreterTypes.ml' doesn't have corresponding .mli interface","location":{"path":"Ocaml+ADT/lib/interpreterTypes.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Ocaml+ADT/lib/interpreterResultPrinter.ml' doesn't have corresponding .mli interface","location":{"path":"Ocaml+ADT/lib/interpreterResultPrinter.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Ocaml+ADT/lib/interpreter.ml' doesn't have corresponding .mli interface","location":{"path":"Ocaml+ADT/lib/interpreter.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Ocaml+ADT/lib/inferencerTypes.ml' doesn't have corresponding .mli interface","location":{"path":"Ocaml+ADT/lib/inferencerTypes.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Ocaml+ADT/lib/inferencer.ml' doesn't have corresponding .mli interface","location":{"path":"Ocaml+ADT/lib/inferencer.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Ocaml+ADT/lib/tests/parserTests.ml' doesn't have corresponding .mli interface","location":{"path":"Ocaml+ADT/lib/tests/parserTests.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Ocaml+ADT/lib/tests/interpreterTests.ml' doesn't have corresponding .mli interface","location":{"path":"Ocaml+ADT/lib/tests/interpreterTests.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Ocaml+ADT/lib/tests/inferencerTests.ml' doesn't have corresponding .mli interface","location":{"path":"Ocaml+ADT/lib/tests/inferencerTests.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Extranous `@@`.","location":{"path":"Ocaml+ADT/lib/parser.ml","range":{"start":{"line":124,"column":1}}},"severity":"INFO","code":{"value":"camel_extra_dollar","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Extranous `@@`.","location":{"path":"Ocaml+ADT/lib/parser.ml","range":{"start":{"line":125,"column":1}}},"severity":"INFO","code":{"value":"camel_extra_dollar","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Using `function` is recommended","location":{"path":"Ocaml+ADT/lib/inferencer.ml","range":{"start":{"line":555,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"Ocaml+ADT/lib/inferencer.ml","range":{"start":{"line":555,"column":1}}},"severity":"INFO"}
