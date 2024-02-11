@@ -1,0 +1,5 @@
+{"message":"File 'OCaml_ExtensibleVariantTypes/lib/typing.ml' doesn't have corresponding .mli interface","location":{"path":"OCaml_ExtensibleVariantTypes/lib/typing.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'OCaml_ExtensibleVariantTypes/lib/parser.ml' doesn't have corresponding .mli interface","location":{"path":"OCaml_ExtensibleVariantTypes/lib/parser.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'OCaml_ExtensibleVariantTypes/lib/interpreter.ml' doesn't have corresponding .mli interface","location":{"path":"OCaml_ExtensibleVariantTypes/lib/interpreter.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'OCaml_ExtensibleVariantTypes/lib/inferencer.ml' doesn't have corresponding .mli interface","location":{"path":"OCaml_ExtensibleVariantTypes/lib/inferencer.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'OCaml_ExtensibleVariantTypes/lib/tests.ml' doesn't have corresponding .mli interface","location":{"path":"OCaml_ExtensibleVariantTypes/lib/tests.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
