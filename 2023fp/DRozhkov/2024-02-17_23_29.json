@@ -1,0 +1,5 @@
+{"message":"Using `function` is recommended","location":{"path":"DRozhkov/lib/interpreter_test.ml","range":{"start":{"line":32,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"DRozhkov/lib/interpreter_test.ml","range":{"start":{"line":32,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"DRozhkov/lib/ast.ml","range":{"start":{"line":19,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"DRozhkov/lib/ast.ml","range":{"start":{"line":32,"column":1}}},"severity":"INFO"}
+{"message":"Unneeded mutual recursion detected in these type declarations. It's recommended to rewrite 'fun_rec' as follows:\ntype fun_rec =\n  | Rec [@ocaml.doc \" let rec f\"]\n  | NoRec [@ocaml.doc \" let f \"]","location":{"path":"DRozhkov/lib/ast.mli","range":{"start":{"line":41,"column":1}}},"severity":"INFO"}
