@@ -1,0 +1,11 @@
+{"message":"File 'DRozhkov/lib/typedtree.ml' doesn't have corresponding .mli interface","location":{"path":"DRozhkov/lib/typedtree.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'DRozhkov/lib/parser.ml' doesn't have corresponding .mli interface","location":{"path":"DRozhkov/lib/parser.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'DRozhkov/lib/interpreter_test.ml' doesn't have corresponding .mli interface","location":{"path":"DRozhkov/lib/interpreter_test.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'DRozhkov/lib/interpreter.ml' doesn't have corresponding .mli interface","location":{"path":"DRozhkov/lib/interpreter.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'DRozhkov/lib/inferencer.ml' doesn't have corresponding .mli interface","location":{"path":"DRozhkov/lib/inferencer.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'DRozhkov/lib/errors.ml' doesn't have corresponding .mli interface","location":{"path":"DRozhkov/lib/errors.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"DRozhkov/lib/interpreter_test.ml","range":{"start":{"line":28,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"DRozhkov/lib/interpreter_test.ml","range":{"start":{"line":28,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"DRozhkov/lib/ast.ml","range":{"start":{"line":19,"column":1}}},"severity":"INFO"}
+{"message":"Unneeded mutual recursion detected in these type declarations. It's recommended to rewrite 'fun_rec' as follows:\ntype fun_rec =\n  | Rec \n  | NoRec ","location":{"path":"DRozhkov/lib/ast.ml","range":{"start":{"line":32,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"DRozhkov/lib/ast.ml","range":{"start":{"line":44,"column":1}}},"severity":"INFO"}
