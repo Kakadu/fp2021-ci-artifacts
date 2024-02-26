@@ -1,0 +1,2 @@
+{"message":"File 'OCamlTyEff/lib/eval/values.ml' doesn't have corresponding .mli interface","location":{"path":"OCamlTyEff/lib/eval/values.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'OCamlTyEff/lib/types/tys.ml' doesn't have corresponding .mli interface","location":{"path":"OCamlTyEff/lib/types/tys.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
