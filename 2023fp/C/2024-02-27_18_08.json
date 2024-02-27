@@ -1,0 +1,9 @@
+{"message":"File 'C/lib/parser.ml' doesn't have corresponding .mli interface","location":{"path":"C/lib/parser.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'C/lib/interpretTypes.ml' doesn't have corresponding .mli interface","location":{"path":"C/lib/interpretTypes.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'C/lib/interpret.ml' doesn't have corresponding .mli interface","location":{"path":"C/lib/interpret.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Extranous `@@`.","location":{"path":"C/lib/parser.ml","range":{"start":{"line":196,"column":1}}},"severity":"INFO","code":{"value":"camel_extra_dollar","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Extranous `@@`.","location":{"path":"C/lib/parser.ml","range":{"start":{"line":513,"column":1}}},"severity":"INFO","code":{"value":"camel_extra_dollar","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Using `function` is recommended","location":{"path":"C/lib/interpret.ml","range":{"start":{"line":441,"column":1}}},"severity":"INFO"}
+{"message":"Consider using `List.fold_left` instead of `get_name_args`","location":{"path":"C/lib/interpret.ml","range":{"start":{"line":441,"column":1}}},"severity":"INFO"}
+{"message":"Executing 'if ... then false' smells bad\n","location":{"path":"C/lib/interpret.ml","range":{"start":{"line":47,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"C/lib/interpret.ml","range":{"start":{"line":441,"column":1}}},"severity":"INFO"}
