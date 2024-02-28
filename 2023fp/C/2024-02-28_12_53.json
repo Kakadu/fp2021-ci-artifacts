@@ -1,0 +1,4 @@
+{"message":"File 'C/lib/parser.ml' doesn't have corresponding .mli interface","location":{"path":"C/lib/parser.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'C/lib/interpretTypes.ml' doesn't have corresponding .mli interface","location":{"path":"C/lib/interpretTypes.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'C/lib/interpret.ml' doesn't have corresponding .mli interface","location":{"path":"C/lib/interpret.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Extranous `@@`.","location":{"path":"C/lib/parser.ml","range":{"start":{"line":196,"column":1}}},"severity":"INFO","code":{"value":"camel_extra_dollar","url":"https://kakadu.github.io/zanuda/"}}
