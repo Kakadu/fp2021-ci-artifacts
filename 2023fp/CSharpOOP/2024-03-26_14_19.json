@@ -1,0 +1,17 @@
+{"message":"Using `function` is recommended","location":{"path":"CSharpOOP/lib/type_checker.ml","range":{"start":{"line":47,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CSharpOOP/lib/type_checker.ml","range":{"start":{"line":101,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CSharpOOP/lib/type_checker.ml","range":{"start":{"line":113,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CSharpOOP/lib/type_checker.ml","range":{"start":{"line":148,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CSharpOOP/lib/type_checker.ml","range":{"start":{"line":47,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CSharpOOP/lib/type_checker.ml","range":{"start":{"line":101,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CSharpOOP/lib/type_checker.ml","range":{"start":{"line":113,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CSharpOOP/lib/type_checker.ml","range":{"start":{"line":148,"column":1}}},"severity":"INFO"}
+{"message":"Using `let ... in` is recommended","location":{"path":"CSharpOOP/lib/type_checker.ml","range":{"start":{"line":551,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CSharpOOP/lib/monad.ml","range":{"start":{"line":489,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CSharpOOP/lib/monad.ml","range":{"start":{"line":533,"column":1}}},"severity":"INFO"}
+{"message":"Constructor `Error` of this type should not look like defaults","location":{"path":"CSharpOOP/lib/monad.ml","range":{"start":{"line":211,"column":1}}},"severity":"INFO","code":{"value":"ambiguous_constructors","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Using `function` is recommended","location":{"path":"CSharpOOP/lib/monad.ml","range":{"start":{"line":489,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CSharpOOP/lib/monad.ml","range":{"start":{"line":533,"column":1}}},"severity":"INFO"}
+{"message":"Constructor `Error` of this type should not look like defaults","location":{"path":"CSharpOOP/lib/monad.mli","range":{"start":{"line":184,"column":1}}},"severity":"INFO","code":{"value":"ambiguous_constructors","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Using `function` is recommended","location":{"path":"CSharpOOP/lib/interpreter.ml","range":{"start":{"line":360,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"CSharpOOP/lib/interpreter.ml","range":{"start":{"line":360,"column":1}}},"severity":"INFO"}
