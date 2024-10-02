@@ -1,0 +1,2 @@
+{"message":"Eta reduction proposed. It's recommended to rewrite it as 'let rec loop x y =\n  match (x, y) with\n  | ([], []) -> true\n  | (a::x, b::y) -> (__0 a b) && (loop x y)\n  | _ -> false in\nfun x -> fun y -> loop x y'","location":{"path":"RISCV_ASM/lib/ast.ml","range":{"start":{"line":169,"column":1}}},"severity":"INFO"}
+{"message":"Eta reduction proposed. It's recommended to rewrite it as 'loop'","location":{"path":"RISCV_ASM/_none_","range":{"start":{"line":0,"column":1}}},"severity":"INFO"}
