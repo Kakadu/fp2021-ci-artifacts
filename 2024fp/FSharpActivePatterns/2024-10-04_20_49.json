@@ -1,0 +1,1 @@
+{"message":"Constructor 'Unary_expr' has no documentation attribute","location":{"path":"FSharpActivePatterns/lib/ast.mli","range":{"start":{"line":61,"column":1}}},"severity":"INFO","code":{"value":"no_docs_parsetree","url":"https://kakadu.github.io/zanuda/"}}
