@@ -1,0 +1,3 @@
+{"message":"Eta reduction proposed. It's recommended to rewrite 'fun x -> fun y -> x ^ y' as \n'(^)'","location":{"path":"OcamlBR/lib/parser.ml","range":{"start":{"line":28,"column":1}}},"severity":"INFO"}
+{"message":"Eta reduction proposed. It's recommended to rewrite 'fun ch ->\n                                                       Char.is_digit ch' as \n'Char.is_digit'","location":{"path":"OcamlBR/lib/parser.ml","range":{"start":{"line":47,"column":1}}},"severity":"INFO"}
+{"message":"Eta reduction proposed. It's recommended to rewrite 'fun init -> go init' as \n'go'","location":{"path":"OcamlBR/lib/parser.ml","range":{"start":{"line":88,"column":1}}},"severity":"INFO"}
