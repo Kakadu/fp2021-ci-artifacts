@@ -1,0 +1,1 @@
+{"message":"Eta reduction proposed. It's recommended to rewrite 'fun s -> fun d -> s ^ d' as \n'(^)'","location":{"path":"RISCV_ASM/lib/parser.ml","range":{"start":{"line":15,"column":1}}},"severity":"INFO"}
