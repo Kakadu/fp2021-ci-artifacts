@@ -1,0 +1,3 @@
+{"message":"File 'OCamlOOP/test/parser_tests.ml' doesn't have corresponding .mli interface","location":{"path":"OCamlOOP/test/parser_tests.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Eta reduction proposed. It's recommended to rewrite 'fun start ->\n                                                       continue start' as \n'continue'","location":{"path":"OCamlOOP/lib/parser.ml","range":{"start":{"line":63,"column":1}}},"severity":"INFO"}
+{"message":"Eta reduction proposed. It's recommended to rewrite 'fun s -> check_ident s' as \n'check_ident'","location":{"path":"OCamlOOP/lib/parser.ml","range":{"start":{"line":117,"column":1}}},"severity":"INFO"}
