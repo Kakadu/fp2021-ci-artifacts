@@ -1,0 +1,6 @@
+{"message":"File 'RoflanML/lib/typing.ml' doesn't have corresponding .mli interface","location":{"path":"RoflanML/lib/typing.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'RoflanML/lib/typechecker.ml' doesn't have corresponding .mli interface","location":{"path":"RoflanML/lib/typechecker.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'RoflanML/lib/parser.ml' doesn't have corresponding .mli interface","location":{"path":"RoflanML/lib/parser.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'RoflanML/lib/tests.ml' doesn't have corresponding .mli interface","location":{"path":"RoflanML/lib/tests.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"RoflanML/lib/typing.ml","range":{"start":{"line":24,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"RoflanML/lib/typing.ml","range":{"start":{"line":24,"column":1}}},"severity":"INFO"}
