@@ -1,0 +1,5 @@
+{"message":"File 'MEML/lib/ty.ml' doesn't have corresponding .mli interface","location":{"path":"MEML/lib/ty.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'MEML/lib/parser.ml' doesn't have corresponding .mli interface","location":{"path":"MEML/lib/parser.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'MEML/lib/inferencer.ml' doesn't have corresponding .mli interface","location":{"path":"MEML/lib/inferencer.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'MEML/tests/parser_tests.ml' doesn't have corresponding .mli interface","location":{"path":"MEML/tests/parser_tests.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'MEML/tests/infer_tests.ml' doesn't have corresponding .mli interface","location":{"path":"MEML/tests/infer_tests.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
