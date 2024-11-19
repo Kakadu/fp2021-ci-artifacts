@@ -1,0 +1,12 @@
+{"message":"File 'Haskell/lib/qcheck.ml' doesn't have corresponding .mli interface","location":{"path":"Haskell/lib/qcheck.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Haskell/lib/tests/pprintast_test.ml' doesn't have corresponding .mli interface","location":{"path":"Haskell/lib/tests/pprintast_test.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Match is redundant. It's recommended to rewrite it as 'if b then \"True\" else \"False\"'","location":{"path":"Haskell/lib/pprintast.ml","range":{"start":{"line":29,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"Haskell/lib/parser.ml","range":{"start":{"line":123,"column":1}}},"severity":"INFO"}
+{"message":"Eta reduction proposed. It's recommended to rewrite 'fun c ->\n                                                       is_char_suitable_for_ident\n                                                         c' as 'is_char_suitable_for_ident'","location":{"path":"Haskell/lib/parser.ml","range":{"start":{"line":63,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"Haskell/lib/parser.ml","range":{"start":{"line":123,"column":1}}},"severity":"INFO"}
+{"message":"Eta reduction proposed. It's recommended to rewrite 'fun p -> return p' as \n'return'","location":{"path":"Haskell/lib/parser.ml","range":{"start":{"line":315,"column":1}}},"severity":"INFO"}
+{"message":"Executing 'if ... then true' smells bad\n","location":{"path":"Haskell/lib/parser.ml","range":{"start":{"line":590,"column":1}}},"severity":"INFO"}
+{"message":"","location":{"path":"Haskell/lib/parser.ml","range":{"start":{"line":590,"column":1}}},"severity":"INFO"}
+{"message":"","location":{"path":"Haskell/lib/parser.ml","range":{"start":{"line":590,"column":1}}},"severity":"INFO"}
+{"message":"Eta reduction proposed. It's recommended to rewrite 'fun ex -> return ex' as \n'return'","location":{"path":"Haskell/lib/parser.ml","range":{"start":{"line":707,"column":1}}},"severity":"INFO"}
+{"message":"Unneeded mutual recursion detected in these type declarations. It's recommended to rewrite 'pconst' as follows:\ntype pconst =\n  | OrdinaryPConst of const [@ocaml.doc \" e.g [True]\"]\n  | NegativePInt of ((int)[@gen let open QCheck.Gen in 0 -- Int.max_int])\n  [@ocaml.doc \" e.g [-12]\"]","location":{"path":"Haskell/lib/ast.ml","range":{"start":{"line":99,"column":1}}},"severity":"INFO"}
