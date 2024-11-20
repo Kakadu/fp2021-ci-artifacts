@@ -1,0 +1,8 @@
+{"message":"File 'Go/tests/parser/pp/ppUnitTests.ml' doesn't have corresponding .mli interface","location":{"path":"Go/tests/parser/pp/ppUnitTests.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Go/tests/parser/unitTests/topLevelTest.ml' doesn't have corresponding .mli interface","location":{"path":"Go/tests/parser/unitTests/topLevelTest.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Go/tests/parser/unitTests/stmtTest.ml' doesn't have corresponding .mli interface","location":{"path":"Go/tests/parser/unitTests/stmtTest.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Go/tests/parser/unitTests/pp.ml' doesn't have corresponding .mli interface","location":{"path":"Go/tests/parser/unitTests/pp.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Go/tests/parser/unitTests/exprTest.ml' doesn't have corresponding .mli interface","location":{"path":"Go/tests/parser/unitTests/exprTest.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'Go/tests/parser/unitTests/commonTest.ml' doesn't have corresponding .mli interface","location":{"path":"Go/tests/parser/unitTests/commonTest.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"Go/tests/parser/qCheck/astShrinker.ml","range":{"start":{"line":161,"column":1}}},"severity":"INFO"}
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"Go/_none_","range":{"start":{"line":0,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
