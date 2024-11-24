@@ -1,0 +1,1 @@
+{"message":"Using `function` is recommended","location":{"path":"OcamlADT/repl/REPL.ml","range":{"start":{"line":14,"column":1}}},"severity":"INFO"}
