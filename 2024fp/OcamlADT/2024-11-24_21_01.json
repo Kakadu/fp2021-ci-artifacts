@@ -1,0 +1,9 @@
+{"message":"File 'OcamlADT/tests/pprinter.ml' doesn't have corresponding .mli interface","location":{"path":"OcamlADT/tests/pprinter.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'OcamlADT/tests/parser.ml' doesn't have corresponding .mli interface","location":{"path":"OcamlADT/tests/parser.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'OcamlADT/lib/tests/qcheckrun.ml' doesn't have corresponding .mli interface","location":{"path":"OcamlADT/lib/tests/qcheckrun.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'OcamlADT/lib/qshrinker/shrinker.ml' doesn't have corresponding .mli interface","location":{"path":"OcamlADT/lib/qshrinker/shrinker.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"OcamlADT/repl/REPL.ml","range":{"start":{"line":14,"column":1}}},"severity":"INFO"}
+{"message":"","location":{"path":"OcamlADT/lib/pprinter.ml","range":{"start":{"line":38,"column":1}}},"severity":"INFO"}
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"OcamlADT/_none_","range":{"start":{"line":0,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Using generic equality for type list and other algebraic data types is not recommended. Use pattern matching","location":{"path":"OcamlADT/lib/qshrinker/shrinker.ml","range":{"start":{"line":18,"column":1}}},"severity":"INFO"}
+{"message":"Using generic equality for type list and other algebraic data types is not recommended. Use pattern matching","location":{"path":"OcamlADT/lib/qshrinker/shrinker.ml","range":{"start":{"line":30,"column":1}}},"severity":"INFO"}
