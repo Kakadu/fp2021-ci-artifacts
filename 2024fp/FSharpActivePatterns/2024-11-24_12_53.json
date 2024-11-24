@@ -1,0 +1,2 @@
+{"message":"File 'FSharpActivePatterns/lib/tests/parser.ml' doesn't have corresponding .mli interface","location":{"path":"FSharpActivePatterns/lib/tests/parser.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"File 'FSharpActivePatterns/lib/tests/ast_printer.ml' doesn't have corresponding .mli interface","location":{"path":"FSharpActivePatterns/lib/tests/ast_printer.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
