@@ -1,0 +1,3 @@
+{"message":"Using `function` is recommended","location":{"path":"OcamlADT/repl/REPL.ml","range":{"start":{"line":14,"column":1}}},"severity":"INFO"}
+{"message":"","location":{"path":"OcamlADT/lib/pprinter.ml","range":{"start":{"line":38,"column":1}}},"severity":"INFO"}
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"OcamlADT/_none_","range":{"start":{"line":0,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
