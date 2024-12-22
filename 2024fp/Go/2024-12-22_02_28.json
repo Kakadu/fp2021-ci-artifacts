@@ -1,0 +1,1 @@
+{"message":"Match is redundant. It's recommended to rewrite it as 'if equal_ctype t1 t2\nthen return ()\nelse\n  fail (Type_check_error (Mismatched_types \"Types mismatched in equation\"))'","location":{"path":"Go/lib/typecheck/typeChecker.ml","range":{"start":{"line":49,"column":1}}},"severity":"INFO"}
