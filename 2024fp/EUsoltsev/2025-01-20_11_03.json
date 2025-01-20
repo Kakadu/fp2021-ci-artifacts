@@ -1,0 +1,1 @@
+{"message":"Eta reduction proposed. It's recommended to rewrite 'fun x ->\n                                                       fun f -> x >>= f' as \n'(>>=)'","location":{"path":"EUsoltsev/lib/inferencer.ml","range":{"start":{"line":70,"column":1}}},"severity":"INFO"}
