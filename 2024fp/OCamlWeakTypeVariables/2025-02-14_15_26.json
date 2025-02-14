@@ -1,0 +1,1 @@
+{"message":"Eta reduction proposed. It's recommended to rewrite 'fun e -> validate_expr e' as \n'validate_expr'","location":{"path":"OCamlWeakTypeVariables/lib/infer.ml","range":{"start":{"line":606,"column":1}}},"severity":"INFO"}
