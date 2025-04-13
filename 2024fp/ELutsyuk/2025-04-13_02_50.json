@@ -1,0 +1,2 @@
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"ELutsyuk/_none_","range":{"start":{"line":0,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Extranous `@@`.","location":{"path":"ELutsyuk/lib/parser/patterns.ml","range":{"start":{"line":15,"column":1}}},"severity":"INFO","code":{"value":"camel_extra_dollar","url":"https://kakadu.github.io/zanuda/"}}
