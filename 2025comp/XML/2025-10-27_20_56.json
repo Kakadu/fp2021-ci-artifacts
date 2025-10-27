@@ -1,0 +1,4 @@
+{"message":"File 'XML/lib/middleend/pprinter.ml' doesn't have corresponding .mli interface","location":{"path":"XML/lib/middleend/pprinter.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Unsafe ingore. It's recommended to rewrite it as 'let (_: unit r) = gen_im_expr state (T 0) arg_imm'","location":{"path":"XML/lib/backend/codegen.ml","range":{"start":{"line":226,"column":1}}},"severity":"INFO"}
+{"message":"Identifier `__0` used somewhere else but supposed to be unused.","location":{"path":"XML/lib/common/ast.ml","range":{"start":{"line":140,"column":1}}},"severity":"INFO","code":{"value":"var_should_not_be_used","url":"https://kakadu.github.io/zanuda/"}}
+{"message":"Identifier `__0` used somewhere else but supposed to be unused.","location":{"path":"XML/lib/common/ast.ml","range":{"start":{"line":150,"column":1}}},"severity":"INFO","code":{"value":"var_should_not_be_used","url":"https://kakadu.github.io/zanuda/"}}
