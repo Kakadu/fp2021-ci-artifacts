@@ -1,0 +1,1 @@
+{"message":"File 'XML/many_tests/parser.ml' doesn't have corresponding .mli interface","location":{"path":"XML/many_tests/parser.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
