@@ -1,0 +1,2 @@
+{"message":"File 'NSamodurov/tests/expect/parser.ml' doesn't have corresponding .mli interface","location":{"path":"NSamodurov/tests/expect/parser.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"OCaml files should provide license information in second line (structure item)","location":{"path":"NSamodurov/tests/expect/property.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO","code":{"value":"top_file_license","url":"https://kakadu.github.io/zanuda/"}}
