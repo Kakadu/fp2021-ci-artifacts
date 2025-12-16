@@ -1,0 +1,6 @@
+{"message":"File 'Maltsev/lib/parser.ml' doesn't have corresponding .mli interface","location":{"path":"Maltsev/lib/parser.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"Maltsev/lib/Pprintast.ml","range":{"start":{"line":9,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"Maltsev/lib/parser.ml","range":{"start":{"line":23,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"Maltsev/lib/parser.ml","range":{"start":{"line":29,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"Maltsev/lib/parser.ml","range":{"start":{"line":36,"column":1}}},"severity":"INFO"}
+{"message":"Using `function` is recommended","location":{"path":"Maltsev/lib/parser.ml","range":{"start":{"line":59,"column":1}}},"severity":"INFO"}
