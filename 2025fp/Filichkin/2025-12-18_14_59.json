@@ -1,0 +1,1 @@
+{"message":"Constructor 'UnOp' has no documentation attribute","location":{"path":"Filichkin/lib/ast.mli","range":{"start":{"line":31,"column":1}}},"severity":"INFO","code":{"value":"no_docs_parsetree","url":"https://kakadu.github.io/zanuda/"}}
