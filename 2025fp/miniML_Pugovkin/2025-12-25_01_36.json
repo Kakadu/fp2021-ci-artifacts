@@ -1,0 +1,1 @@
+{"message":"File 'miniML_Pugovkin/tests/parser_tests.ml' doesn't have corresponding .mli interface","location":{"path":"miniML_Pugovkin/tests/parser_tests.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
