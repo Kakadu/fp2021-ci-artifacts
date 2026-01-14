@@ -1,0 +1,1 @@
+{"message":"File 'OOP_Shaehmitov/lib/interpreter/interpreter.ml' doesn't have corresponding .mli interface","location":{"path":"OOP_Shaehmitov/lib/interpreter/interpreter.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
