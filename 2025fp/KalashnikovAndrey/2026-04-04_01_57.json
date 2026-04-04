@@ -1,0 +1,2 @@
+{"message":"File 'KalashnikovAndrey/lib/Printer.ml' doesn't have corresponding .mli interface","location":{"path":"KalashnikovAndrey/lib/Printer.ml","range":{"start":{"line":1,"column":1}}},"severity":"INFO"}
+{"message":"Prefer guard instead of if-then-else in case construction","location":{"path":"KalashnikovAndrey/lib/interpret.ml","range":{"start":{"line":63,"column":1}}},"severity":"INFO","code":{"value":"use_guard_instead_of_if","url":"https://kakadu.github.io/zanuda/"}}
